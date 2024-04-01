@@ -7,9 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "axios": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "axios": "^0.24.0",
+    "next": "^13.1.0",
+    "react": "^18.0.2",
+    "react-dom": "^18.0.2"
   }
 }
